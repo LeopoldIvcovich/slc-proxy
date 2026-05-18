@@ -1,11 +1,5 @@
 {
   "version": 2,
-  "functions": {
-    "api/fetch-meta.js": {
-      "runtime": "nodejs20.x",
-      "maxDuration": 15
-    }
-  },
   "headers": [
     {
       "source": "/api/(.*)",
